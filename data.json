@@ -4,5 +4,50 @@
     "name":"jaswanth",
     "label":"software engineer",
     "email":"abcd@gmail.com"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+  },
+  "education":[
+    {
+      "degree":"B-Tech(Information Technology)",
+      "institute":"PVP Siddhartha",
+      "data":["2016-20","92%"]
+    },
+    {
+      "degree":"Intermediate(M.P.C)",
+      "institute":"Narayana junior college",
+      "data":["2014-16","94%"]
+    },
+    {
+      "degree":"C.B.S.E",
+      "institute":"VPS Public School",
+      "data":["2014","88%"]
+    }
+
+  ],
+  "skills":[
+    {
+      "title":"Language",
+      "content":["C","Python","C++","Java"]
+    },
+    {
+      "title":"Database",
+      "content":["SQL","MySQL"]
+
+   },
+   {
+     "title":"WebTechnologies",
+     "content":["HTML","CSS","JavaScript"]
+   },
+   {
+     "title":"Language",
+     "content":["C","Python","C++","Java"]
+   },
+   {
+     "title":"Frameworks",
+     "content":["Django","CodeIgniter"]
+   }
+  ]
+
   }
-}
